@@ -1,4 +1,3 @@
-
 <?php
 // status.php
 // Status page for the NEW datalogger6_remote project.
